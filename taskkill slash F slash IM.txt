@@ -1,0 +1,2 @@
+type taskkill /F /IM
+
